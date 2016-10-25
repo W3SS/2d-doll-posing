@@ -1,6 +1,6 @@
 2d-doll-posing
 ====
-Preview: http://n-yoda.github.io/2d-doll-posing/pose.html
+Preview: https://n-yoda.github.io/2d-doll-posing/pose.html
 
 ----
 
